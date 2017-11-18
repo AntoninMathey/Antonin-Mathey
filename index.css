@@ -1,0 +1,41 @@
+div {
+  padding-left:  5%;
+  padding-right: 5%;
+  text-align: center;
+}
+#name {
+  padding-top: 20%;
+  padding-bottom: 10px;
+  font-family: "ubuntu" ;
+  font-weight: bold;
+  font-size:  600%;
+  text-align: center;
+  color: black;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  display: inline;
+}
+
+a{
+  font-family: "ubuntu";
+  font-weight: normal;
+  font-size: 150%;
+  text-align: center;
+  color: #7B7D7D;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+a:hover{
+  color: #17202A;
+}
+abbr{
+  text-decoration: none;
+  
+}
