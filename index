@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Antonin Mathey</title>
+        <link rel="stylesheet" type="text/css" href="index.css">
+        <script>
+        </script>
+        </head>
+        <body>
+            <div id="container">
+                <div id="banner-container">
+                    <div id="name">Maxime Bleunven</div>
+                        <div id="links">
+                            <ul>
+                            <li><a><abbr title="Under Cunstruction">Projects</abbr></a></li>
+                            <li><a><abbr title="Under Cunstruction">About me</abbr></a></li>
+                            <li><a href="https://www.linkedin.com/in/maxime-bleunven" target="blank">LinkedIn</a></li>
+                            <li><a href="https://github.com/Xiuhotl" target="blank">GitHub</a></li>
+                            <li><a href="resume_maxime_bleunven.pdf">Resume</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+        </body>
+</html>
